@@ -6,7 +6,7 @@ Follow these simple steps to get your environment up and running smoothly, and t
 ---
 
 ## 🛠️ Step 1: Install the App
-1. Locate the **`Aether-Code-macOS-arm64-v0.1.0.dmg`** file in this folder.
+1. Locate the **`Aether-Code.dmg`** file in this folder.
 2. Double-click the `.dmg` file to mount it.
 3. Drag and drop the **Aether Code** icon into your **Applications** folder.
 
