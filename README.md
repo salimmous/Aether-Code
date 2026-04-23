@@ -78,6 +78,13 @@ xattr -cr "/Applications/Aether Code.app"
 
 4. You can now open **Aether Code** from your Launchpad or Applications folder.
 
+### 🧠 NVIDIA API Setup (Required for AI Features)
+Aether Code uses NVIDIA's AI Catalog to power its features.
+1. Go to [build.nvidia.com](https://build.nvidia.com/) and create a free account.
+2. Generate an API Key (it starts with `nvapi-`).
+3. Open **Aether Code**, go to **Settings ⚙️ > AI Providers**, and paste your API Key.
+4. You are ready to go! Choose **Auto (Smart Switch)** in the chat to let the IDE pick the best model for you.
+
 *Note for developers:* If you are building from source, the built DMG will be located at `src-tauri/target/release/bundle/dmg/`.
 
 ## Documentation For GitHub Visitors
